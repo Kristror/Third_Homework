@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\ComplexStuct\obj\Debug\ComplexStuct.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\ComplexStuct\obj\Debug\ComplexStuct.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\ComplexStuct\bin\Debug\ComplexStuct.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\ComplexStuct\bin\Debug\ComplexStuct.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\ComplexStuct\bin\Debug\ComplexStuct.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\ComplexStuct\obj\Debug\ComplexStuct.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\ComplexStuct\obj\Debug\ComplexStuct.pdb
