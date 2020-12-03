@@ -1,0 +1,6 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\Until0\bin\Debug\Until0.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\Until0\bin\Debug\Until0.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\Until0\bin\Debug\Until0.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\Until0\obj\Debug\Until0.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\Until0\obj\Debug\Until0.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\Until0\obj\Debug\Until0.pdb
