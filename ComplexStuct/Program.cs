@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ComplexStuct
 {
@@ -137,12 +133,12 @@ namespace ComplexStuct
             result.Print();
             #endregion
             #region класс           
-            Console.WriteLine("Введите два вещественных числа для первого компелксного числа:");
+            Console.WriteLine("Введите два вещественных числа для первого комплексного числа:");
             double num1 = Double.Parse(Console.ReadLine());
             double num2 = Double.Parse(Console.ReadLine());
             ComplexClass complexClass1 = new ComplexClass(num1, num2);
 
-            Console.WriteLine("Введите два вещественных числа для второго компелксного числа:");
+            Console.WriteLine("Введите два вещественных числа для второго комплексного числа:");
             num1 = Double.Parse(Console.ReadLine());
             num2 = Double.Parse(Console.ReadLine());
             ComplexClass complexClass2 = new ComplexClass(num1, num2);
@@ -155,23 +151,23 @@ namespace ComplexStuct
             Console.Write("Второе комплексное число: ");
             complex2.Print();
 
-            ComplexClass ClassResult = new ComplexClass();
+            ComplexClass classResult = new ComplexClass();
             switch (act)
             {
                 case "-":
-                    ClassResult = complexClass1.Minus(complexClass2);
+                    classResult = complexClass1.Minus(complexClass2);
                     Console.Write("Результат вычитания комплексных чисел: ");
                     break;
                 case "+":
-                    ClassResult = complexClass1.Plus(complexClass2);
+                    classResult = complexClass1.Plus(complexClass2);
                     Console.Write("Результат сложения комплексных чисел: ");
                      break;
                 case "*":
-                    ClassResult = complexClass1.Multi(complexClass2);
+                    classResult = complexClass1.Multi(complexClass2);
                     Console.Write("Результат умножения комплексных чисел: ");
                     break;
             }
-            ClassResult.Print();
+            classResult.Print();
             #endregion
             Console.ReadKey();
         }

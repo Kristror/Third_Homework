@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\FractionalNumber\obj\Debug\FractionalNumber.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\FractionalNumber\obj\Debug\FractionalNumber.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\FractionalNumber\bin\Debug\FractionalNumber.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\FractionalNumber\bin\Debug\FractionalNumber.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\FractionalNumber\bin\Debug\FractionalNumber.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\FractionalNumber\obj\Debug\FractionalNumber.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Third_Homework\FractionalNumber\obj\Debug\FractionalNumber.pdb
