@@ -65,11 +65,14 @@ namespace FractionalNumber
             {
                 return $"{this.numerator}/{this.denominator}";
             }
-            public double Decimal() //вывод в виде десятичной
+            public double Decimal //вывод в виде десятичной
             {
-                double num = this.numerator;
-                double den = this.denominator;
-                return num / den;
+                get
+                {
+                    double num = this.numerator;
+                    double den = this.denominator;
+                    return num / den;
+                }
             }
 
             public string Simplified()
