@@ -69,7 +69,7 @@ namespace FractionalNumber
             {
                 return $"{this.numerator}/{this.denominator}";
             }
-            public double Decimal()
+            public double Decimal() //вывод в виде десятичной
             {
                 double num = this.numerator;
                 double den = this.denominator;
